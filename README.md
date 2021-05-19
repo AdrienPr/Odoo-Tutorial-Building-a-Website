@@ -7,4 +7,7 @@ The goal is to assingn Courses to a groupe of Teachers.
 There a blocking point at the end of the tutorial, in "Seeling courses" part.
 In this part we learn how to add Courses in the "Shop" on the webiste throught product.template with data from demo.xml
 
-The question is: How to add Course from demo.xml to product.template ?
+# Question
+How to add new Courses from demo.xml to product.template ?
+
+
