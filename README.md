@@ -10,4 +10,5 @@ In this part we learn how to add Courses in the "Shop" on the webiste throught p
 # Question
 How to add new Courses from demo.xml to product.template ?
 
-
+# FeedBack
+If you see a better way to write a code please explain we will read you
